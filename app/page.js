@@ -298,10 +298,7 @@ export default function Home() {
               <Link href="/dashboard" className="text-gray-400 hover:text-white transition-colors duration-300 ml-6">
                 Dashboard
               </Link>
-              <a href="#" className="text-gray-400 hover:text-white transition-colors duration-300 ml-6">
-                Documentation
-              </a>
-              <a href="https://github.com" className="text-gray-400 hover:text-white transition-colors duration-300 ml-6">
+              <a href="https://github.com/sahay-aaditya-raj/iotlabel" className="text-gray-400 hover:text-white transition-colors duration-300 ml-6">
                 GitHub
               </a>
             </div>
