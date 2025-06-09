@@ -30,7 +30,7 @@ export default function Home() {
               <Link href="/dashboard" className="px-8 py-3 bg-gradient-to-r from-violet-600 to-fuchsia-600 text-white rounded-full font-medium hover:shadow-lg hover:shadow-fuchsia-500/20 transition-all duration-300 flex items-center justify-center gap-2 hover:scale-105">
                 Go to Dashboard <ArrowRight className="h-4 w-4" />
               </Link>
-              <a href="https://github.com/yourusername/iotproj-next" target="_blank" rel="noopener noreferrer" className="px-8 py-3 bg-[#1a1a27] border border-[#2a2a3d] text-gray-300 rounded-full font-medium hover:bg-[#252533] hover:border-violet-500 hover:text-gray-100 transition-all duration-300 flex items-center justify-center gap-2">
+              <a href="https://github.com/sahay-aaditya-raj/iotlabel" target="_blank" rel="noopener noreferrer" className="px-8 py-3 bg-[#1a1a27] border border-[#2a2a3d] text-gray-300 rounded-full font-medium hover:bg-[#252533] hover:border-violet-500 hover:text-gray-100 transition-all duration-300 flex items-center justify-center gap-2">
                 Source Code
               </a>
             </div>
