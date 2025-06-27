@@ -76,7 +76,7 @@ export default function DashboardPage() {
 
     fetchLogs(); // initial fetch
 
-    const interval = setInterval(fetchLogs, 60000); // fetch every 60 seconds
+    const interval = setInterval(fetchLogs, 6000); // fetch every 60 seconds
 
     return () => clearInterval(interval);
   }, [selected]);
